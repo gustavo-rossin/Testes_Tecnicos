@@ -1,0 +1,44 @@
+﻿Prod;Identity;Produto;ProdutoGrupo;ProdutoCategoria;ProdutoTipo;FornecedorCod
+C;1;Corante Branco 5;Tons de Branco;Corantes;Minerais;SE03
+C;2;Corante Azul 31;Tons de Azul;Corantes;Minerais;SE05
+C;3;Corante Branco 3;Tons de Branco;Corantes;Minerais;SE03
+C;4;Corante Prateado 1;Tons de Branco;Corantes;Minerais;SE05
+C;5;Corante Verde 34;Tons de Verde;Corantes;Minerais;SE03
+C;6;Corante Vermelho 102;Tons de Vermelho;Corantes;Minerais;SE03
+C;7;Corante Branco 17;Tons de Branco;Corantes;Minerais;SE03
+C;8;Corante Cinza 33;Tons de Branco;Corantes;Minerais;SE02
+C;9;Corante Terracota 1;Tons de Marrom;Corantes;Minerais;SE05
+C;10;Corante Amarelo 33;Tons de Amarelo;Corantes;Minerais;SE03
+C;11;Corante Preto 42;Tons de Preto;Corantes;Minerais;SE03
+C;12;Corante Vermelho 38;Tons de Vermelho;Corantes;Minerais;SE03
+C;13;Corante Marrom 27;Tons de Marrom;Corantes;Minerais;SE03
+C;14;Corante Azul 5;Tons de Azul;Corantes;Minerais;SE03
+C;15;Corante Verde 17;Tons de Verde;Corantes;Minerais;SE03
+S;1;Mica;Solventes;Solventes;Minerais;SE03
+C;16;Corante Amarelo 91;Tons de Amarelo;Corantes;Natural;SE01
+C;17;Corante Amarelo 93;Tons de Amarelo;Corantes;Natural;SE05
+C;18;Corante Vermelho 8;Tons de Vermelho;Corantes;Natural;SE01
+S;2;Água Destilada;Solventes;Solventes;Natural;SE01
+C;19;Corante Preto 31;Tons de Preto;Corantes;Natural;SE04
+C;20;Corante Azul 40;Tons de Azul;Corantes;Natural;SE04
+C;21;Corante Laranja 3;Tons de Laranja;Corantes;Natural;SE04
+C;22;Corante Marrom 2;Tons de Marrom;Corantes;Natural;SE04
+C;23;Corante Vermelho 72;Tons de Vermelho;Corantes;Natural;SE04
+C;24;Corante Laranja 2;Tons de Laranja;Corantes;Químico;SE01
+C;25;Corante Amarelo 2;Tons de Amarelo;Corantes;Químico;SE01
+S;3;Metanol;Solventes;Solventes;Químico;SE04
+S;4;Tolueno;Solventes;Solventes;Químico;SE01
+S;5;Acetona;Solventes;Solventes;Químico;SE05
+S;6;Etanol;Solventes;Solventes;Químico;SE04
+C;26;Corante Vermelho 87;Tons de Vermelho;Corantes;Químico;SE02
+C;27;Corante Vermelho 1;Tons de Vermelho;Corantes;Químico;SE05
+C;28;Corante Violeta 1;Tons de Violeta;Corantes;Químico;SE02
+C;29;Corante Violeta 10;Tons de Violeta;Corantes;Químico;SE02
+S;7;Aguarrás;Solventes;Solventes;Químico;SE02
+C;30;Corante Amarelo 23;Tons de Amarelo;Corantes;Químico;SE03
+C;31;Corante Marrom 14;Tons de Marrom;Corantes;Químico;SE02
+C;32;Corante Preto 23;Tons de Preto;Corantes;Químico;SE05
+C;33;Corante Verde 1;Tons de Verde;Corantes;Químico;SE03
+C;34;Corante Amarelo 36;Tons de Amarelo;Corantes;Químico;SE04
+C;35;Corante Amarelo 73;Tons de Amarelo;Corantes;Químico;SE04
+C;36;Corante Vermelho 14;Tons de Vermelho;Corantes;Químico;SE04
